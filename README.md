@@ -3,7 +3,8 @@
 <h3> 👨🏻‍💻 Sobre mi </h3>
 
 - 🎓 &nbsp; Estudiante de ingenieria de software en Universidad APEC.
-- 🌱 &nbsp; Aprendiendo sobre Inteligencia Artificial, Machine Learning y Ciencia de datos.
+- 🌱 &nbsp; Aprendiendo Python.
+- ⏳ &nbsp; Especial interes en Inteligencia Artificial, Machine Learning y Ciencia de datos.
 
 <h3>🛠 Tech Stack</h3>
 
