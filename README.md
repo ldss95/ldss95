@@ -3,17 +3,16 @@
 <h3> 👨🏻‍💻 Sobre mi </h3>
 
 - 🎓 &nbsp; Estudiante de ingenieria de software en Universidad APEC.
-- 🌱 &nbsp; Aprendiendo Python.
-- ⏳ &nbsp; Especial interes en Inteligencia Artificial, Machine Learning y Ciencia de datos.
+- 🌱 &nbsp; Aprendiendo React Native.
+- ⏳ &nbsp; Especial interes en Python, Inteligencia Artificial, Machine Learning y Ciencia de datos.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C# | Java
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Sass | PHP
 - 🛢 &nbsp; MySQL | Firebase
-- 📱 &nbsp; Java (Android) | Flutter (Android & iOS)
 - 🔧 &nbsp; Git
-- 🖥 &nbsp; Photoshop | Adobe XD
+- 🖥 &nbsp; Adobe XD
 
 <br/>
 <h3> 🤝🏻 Contactame </h3>
