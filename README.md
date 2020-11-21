@@ -8,7 +8,6 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C# | Java
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Sass | PHP
 - 🛢 &nbsp; MySQL | Firebase
 - 🔧 &nbsp; Git
