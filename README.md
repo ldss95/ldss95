@@ -1,19 +1,20 @@
-<h2>Hola, soy Luis David Santiago</h2>
+<h2>Hola, soy Luis Santiago</h2>
 
 <h3> 👨🏻‍💻 Sobre mi </h3>
 
-- 🎓 &nbsp; Estudiante de ingenieria de software en Universidad APEC.
-- ⏳ &nbsp; Especial interes en Python, Inteligencia Artificial, Machine Learning y Ciencia de datos.
+- 🎓 &nbsp; Desarrollador Web y Mobile con mas de 5 años de experiencia.
+- ⏳ &nbsp; Especial interes en Inteligencia Artificial, Machine Learning y Ciencia de datos.
+- 🧠 &nbsp; Siempre aprendiendo y explorando nuevas tecnologías para resolver problemas complejos.
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | React Native | Sass
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Express.js | ReactJS | React Native
 - 🛢 &nbsp; MySQL | Firebase | SQLite
 - 🔧 &nbsp; Git | Docker
-- 🖥 &nbsp; Adobe XD
+- 🎨 &nbsp; Figma
 
 <br/>
-<h3> 🤝🏻 Contactame </h3>
+<h3> 🤝🏻 Contáctame </h3>
 
 <p align="center">
   <a href="https://wa.me/18294260265/">
